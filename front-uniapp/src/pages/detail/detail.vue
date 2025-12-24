@@ -566,6 +566,9 @@ export default {
   border: none;
 }
 
+
+
+
 .comment-send:disabled {
   background-color: #c7c7cc;
   color: #ffffff;
